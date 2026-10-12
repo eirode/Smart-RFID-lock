@@ -22,3 +22,4 @@ Before uploading, replace `AUTHORIZED_UID` in
 [`Smart-lock firmware/src/main.cpp`](Smart-lock%20firmware/src/main.cpp) with
 the UID of the card that should unlock the relay. The relay is energized for
 five seconds after an authorized card is detected.
+<img width="840" height="564" alt="PCB image" src="https://github.com/user-attachments/assets/9d75159e-4184-445e-8832-8ff352d51711" />
